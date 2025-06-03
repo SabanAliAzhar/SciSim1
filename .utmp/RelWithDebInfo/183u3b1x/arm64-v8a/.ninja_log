@@ -1,0 +1,10 @@
+# ninja log v5
+16	3010	7688414527819415	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8d37e38b1f831238
+22	3066	7688414528322780	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	84ac72ddb1721ce6
+1	3099	7688414528918852	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	39e0e26bd1cdc3e
+42	3209	7688414530090699	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d2f55a4a49109e6d
+10	3310	7688414531185340	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f246ab789e7273a6
+35	3570	7688414533773832	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f8c4bf1750ea5a4d
+28	3672	7688414534825044	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3967c8a26986f4e6
+6	3789	7688414535971739	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d1bc0194b1335865
+3789	3936	7688414537464397	C:/Users/hseeb/SciSim Unity Source Code/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/183u3b1x/obj/arm64-v8a/libgame.so	f6e549dfa5240ac1

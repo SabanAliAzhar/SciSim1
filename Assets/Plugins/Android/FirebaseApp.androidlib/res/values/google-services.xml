@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://scisim-vr-fyp-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">276045040699</string>
+  <string name="google_storage_bucket" translatable="false">scisim-vr-fyp.firebasestorage.app</string>
+  <string name="project_id" translatable="false">scisim-vr-fyp</string>
+  <string name="google_api_key" translatable="false">AIzaSyD_Ye4e3J49rtN_yA7nJ9sjE9I_R849SeI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_Ye4e3J49rtN_yA7nJ9sjE9I_R849SeI</string>
+  <string name="google_app_id" translatable="false">1:276045040699:android:09f25fb6f75f87c39e201e</string>
+</resources>

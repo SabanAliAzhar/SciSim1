@@ -1,0 +1,5 @@
+C:/Users/hseeb/My project (2)/.utmp/RelWithDebInfo/5x21y1n7/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/hseeb/My project (2)/.utmp/RelWithDebInfo/5x21y1n7/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/hseeb/My project (2)/.utmp/RelWithDebInfo/5x21y1n7/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/hseeb/My project (2)/.utmp/RelWithDebInfo/5x21y1n7/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/hseeb/My project (2)/.utmp/RelWithDebInfo/5x21y1n7/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

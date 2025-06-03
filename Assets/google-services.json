@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "276045040699",
+    "firebase_url": "https://scisim-vr-fyp-default-rtdb.firebaseio.com",
+    "project_id": "scisim-vr-fyp",
+    "storage_bucket": "scisim-vr-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276045040699:android:09f25fb6f75f87c39e201e",
+        "android_client_info": {
+          "package_name": "com.SciSimPVTLTD.SciSimVR"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Ye4e3J49rtN_yA7nJ9sjE9I_R849SeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

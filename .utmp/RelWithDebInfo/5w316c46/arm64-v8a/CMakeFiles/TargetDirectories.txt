@@ -1,0 +1,5 @@
+/Users/haseebsagheer/Desktop/SciSim Unity Source Code/.utmp/RelWithDebInfo/5w316c46/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/haseebsagheer/Desktop/SciSim Unity Source Code/.utmp/RelWithDebInfo/5w316c46/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/haseebsagheer/Desktop/SciSim Unity Source Code/.utmp/RelWithDebInfo/5w316c46/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/haseebsagheer/Desktop/SciSim Unity Source Code/.utmp/RelWithDebInfo/5w316c46/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/haseebsagheer/Desktop/SciSim Unity Source Code/.utmp/RelWithDebInfo/5w316c46/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
