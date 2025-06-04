@@ -1,0 +1,28 @@
+# SciSim – Unity Physics Simulation
+
+This is the source code and documentation for the SciSim Unity VR project.
+
+## 🔗 Full Project Download
+
+Due to Unity file size and GitHub limits, the complete Unity project (including Firebase and plugins) is hosted on Google Drive:
+
+https://drive.google.com/file/d/1SPN4C9fh5YVywkUtXUskIfyFZ-o77O1S/view
+
+After downloading, open the project in Unity Hub.
+
+---
+
+## 🔧 Project Features
+
+- VR-based simulations
+- Planetary gravity
+- Firebase support
+- Real-time physics graphs
+
+## 📁 Folder Structure
+
+| Folder            | Description                     |
+|-------------------|---------------------------------|
+| `Assets/Scripts/` | Core Unity C# scripts           |
+| `Assets/Scenes/`  | Main simulation scenes          |
+| `README.md`       | This file                       |
